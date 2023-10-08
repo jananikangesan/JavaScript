@@ -1,0 +1,32 @@
+export  const posts=[
+    {
+        'userId':1,
+        'id':1,
+        'title':'subjects',
+        'body':'Maths'
+    },
+    {
+        'userId':1,
+        'id':2,
+        'title':'fruits',
+        'body':'apple'
+    },
+    {
+        'userId':2,
+        'id':7,
+        'title':'drinks',
+        'body':'Milk'
+    },
+    {
+        'userId':2,
+        'id':9,
+        'title':'place',
+        'body':'colombo'
+    },
+    {
+        'userId':3,
+        'id':5,
+        'title':'country',
+        'body':'Australia'
+    },
+]
